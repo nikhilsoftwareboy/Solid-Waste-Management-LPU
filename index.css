@@ -398,7 +398,7 @@
   align-items: center;
   flex-direction: column;
   justify-content: center;
-  background-image: linear-gradient(to right, #c2e59c 0%, #64b3f4 100%);
+  background-image: linear-gradient(90deg, rgb(241, 242, 181) 0.00%,rgb(19, 80, 88) 100.00%);
 }
 .home-features1 {
   gap: var(--dl-space-space-threeunits);
@@ -412,7 +412,7 @@
   flex-direction: column;
   padding-bottom: var(--dl-space-space-fourunits);
   justify-content: flex-start;
-  background-image: linear-gradient(to right, #f1f2b5 0%, #135058 100%);
+  background-image: linear-gradient(90deg, rgb(241, 242, 181) 1.00%,rgb(19, 80, 88) 100.00%);
 }
 .home-container4 {
   display: flex;
